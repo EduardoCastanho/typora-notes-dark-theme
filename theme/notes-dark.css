@@ -474,6 +474,9 @@ code {
 .dropdown-menu .divider {
   display: none;
 }
+.context-menu.dropdown-menu li.active a{
+    background-color: var(--dark-trait);
+ }
 
 .file-node-background {
   height: 31px;
